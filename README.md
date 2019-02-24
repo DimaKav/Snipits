@@ -1,4 +1,4 @@
 # Scripts
 
-Useful scripts.
+Potentially useful code snippets.
  
