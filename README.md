@@ -1,4 +1,4 @@
-# Scripts
+# Snipets
 
 Potentially useful code snippets.
  
