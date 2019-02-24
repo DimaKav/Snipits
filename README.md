@@ -1,4 +1,4 @@
-# Snipets
+# Shnipetz
 
 Potentially useful code snippets.
  
